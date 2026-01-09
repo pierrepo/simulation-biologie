@@ -1,0 +1,80 @@
+[
+        {
+        "question": "Quel est l'indice du premier élément d'une liste ?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "0",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "1",
+                "correct": false,
+                "feedback": "Non. C'est celui du deuxième."
+            },
+            {
+                "answer": "-1",
+                "correct": false,
+                "feedback": "Non. C'est celui du dernier."
+            },
+            {
+                "answer": "2",
+                "correct": false,
+                "feedback": "Non. C'est celui du troisième."
+            }
+        ]
+    },
+    {
+        "question": "La liste toto contient six éléments. Quelle est la taille de la liste toto[2:4] ?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "2",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "3",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "1",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "4",
+                "correct": false,
+                "feedback": "Non."
+            }
+        ]
+    },
+    {
+        "question": "Quelles opérations peuvent s'appliquer à des listes ?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "+",
+                "correct": true,
+                "feedback": "Correct. Mais uniquement entre deux listes."
+            },
+            {
+                "answer": "-",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "/",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "*",
+                "correct": true,
+                "feedback": "Correct. Mais uniquement entre une liste et un entier."
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+        {
+        "question": "Sélectionnez les noms de variable autorisés :",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "ma_variable",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "MaVariable",
+                "correct": true,
+                "feedback": "False."
+            },
+            {
+                "answer": "3DNA",
+                "correct": false,
+                "feedback": "Non. Un nom de variable ne peut pas débuter par un chiffre."
+            },
+            {
+                "answer": "var45",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "ma-variable",
+                "correct": false,
+                "feedback": "Non. Un nom de variable ne peut pas contenir le caractère '-'."
+            }
+        ]
+    },
+    {
+        "question": "Sélectionnez les types de variables possibles :",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "int",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "float32",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "str",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "float",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "integer",
+                "correct": false,
+                "feedback": "Non."
+            }
+        ]
+    },
+    {
+        "question": "Sélectionner les opérations qui peuvent s'appliquer à des chaînes de caractères :",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "+",
+                "correct": true,
+                "feedback": "Correct. Cela s'appelle la concaténation."
+            },
+            {
+                "answer": "-",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "/",
+                "correct": false,
+                "feedback": "Non."
+            },
+            {
+                "answer": "*",
+                "correct": true,
+                "feedback": "Correct. Cela s'appelle la duplication."
+            }
+        ]
+    }
+]
