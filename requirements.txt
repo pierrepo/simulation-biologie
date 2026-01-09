@@ -17,9 +17,9 @@ jupyterlab-language-pack-zh-CN
 jupyterlite-p5-kernel==0.1.0
 
 # JupyterLab: Fasta file renderer (optional)
-jupyterlab-fasta>=3.3.0,<4
+#jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
-jupyterlab-geojson>=3.4.0,<4
+#jupyterlab-geojson>=3.4.0,<4
 # JupyterLab: guided tour (optional)
 # TODO: re-enable after https://github.com/jupyterlab-contrib/jupyterlab-tour/issues/82
 # jupyterlab-tour
