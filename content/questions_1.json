@@ -11,7 +11,7 @@
             {
                 "answer": "MaVariable",
                 "correct": true,
-                "feedback": "False."
+                "feedback": "Correct."
             },
             {
                 "answer": "3DNA",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "question": "Sélectionnez les types de variables possibles :",
+        "question": "Sélectionnez les types de variables possibles en Python :",
         "type": "many_choice",
         "answers": [
             {
@@ -42,7 +42,7 @@
             {
                 "answer": "float32",
                 "correct": false,
-                "feedback": "Non."
+                "feedback": "Non. Pas en Python."
             },
             {
                 "answer": "str",
@@ -57,7 +57,7 @@
             {
                 "answer": "integer",
                 "correct": false,
-                "feedback": "Non."
+                "feedback": "Non. Pas en Python."
             }
         ]
     },

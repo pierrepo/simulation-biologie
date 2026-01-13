@@ -1,6 +1,6 @@
 [
     {
-        "question": "Combien vaut le pourcentage de GC que vous avez calculé, à un chiffre après la virgule ?",
+        "question": "Combien vaut le pourcentage de GC que vous avez calculé, avec un chiffre après la virgule ?",
         "type": "numeric",
         "answers": [
             {
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "question": "Combien vaut la température de fusion (Tm) que vous avez calculée, à un chiffre après la virgule ?",
+        "question": "Combien vaut la température de fusion (Tm) que vous avez calculée, avec un chiffre après la virgule ?",
         "type": "numeric",
         "answers": [
             {
