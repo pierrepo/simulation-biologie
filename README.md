@@ -1,10 +1,8 @@
-# Simulation en biologie
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+# Simulation en biologie - L2 Sciences du vivant et L3 Biosciences
 
 Pierre Poulain
 
-Licence Bioscience, Université Paris Cité, 2025-2026
+Université Paris Cité
 
 - code source: https://github.com/pierrepo/simulation-biologie
-- site: https://cupnet.net/simulation-biologie/
+- site: https://pierrepo.github.io/simulation-biologie/lab/index.html
