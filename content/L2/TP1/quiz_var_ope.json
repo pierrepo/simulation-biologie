@@ -55,7 +55,7 @@
                 "feedback": "Correct."
             },
             {
-                "answer": "integer",
+                "answer": "char",
                 "correct": false,
                 "feedback": "Non. Pas en Python."
             }
