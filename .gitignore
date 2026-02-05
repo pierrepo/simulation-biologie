@@ -1,3 +1,8 @@
+# Python temp files
+zoo2.txt
+zoo3.txt
+
+
 *.bundle.*
 lib/
 node_modules/
