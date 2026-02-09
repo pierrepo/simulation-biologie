@@ -25,7 +25,3 @@ ipyevents>=2.0.1
 ipympl>=0.8.2
 # Python: ipycanvas library for Jupyter notebooks (optional)
 ipycanvas>=0.9.1
-
-# Python: plotting libraries (optional)
-plotly>=6,<7
-bqplot
