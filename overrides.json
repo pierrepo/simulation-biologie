@@ -10,8 +10,8 @@
         "rank": 50
       },
       {
-        "name": "clear",
-        "label": "💥 Clear",
+        "name": "reset",
+        "label": "💥 Reset",
         "args": { "isPalette": true },
         "command": "application:clear-browser-data",
         "rank": 50
