@@ -15,7 +15,7 @@
         "args": { "isPalette": true },
         "command": "application:clear-browser-data",
         "rank": 50
-      :}
+      }
     ]
   }
 }
