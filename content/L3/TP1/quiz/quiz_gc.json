@@ -1,0 +1,40 @@
+[
+    {
+        "question": "Combien vaut le pourcentage de GC que vous avez calculé, avec un chiffre après la virgule ?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 61.1,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "type": "range",
+                "value": 61.11,
+                "correct": false,
+                "feedback": "Non. Avec un chiffre après la virgule..."
+            },
+            {
+                "type": "default",
+                "feedback": "Non. Revérifiez."
+            }
+        ]
+    },
+    {
+        "question": "Combien vaut la température de fusion (Tm) que vous avez calculée, avec un chiffre après la virgule ?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 52.6,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "type": "default",
+                "feedback": "Non. Revérifiez."
+            }
+        ]
+    }
+]
