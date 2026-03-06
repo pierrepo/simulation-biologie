@@ -1,8 +1,8 @@
-# Simulation en biologie - L2 Sciences du vivant et L3 Biosciences
+# Simulation en biologie
 
-Pierre Poulain
+## L2 Sciences du vivant et L3 Biosciences
 
-Université Paris Cité
+Pierre Poulain - Université Paris Cité
 
 - code source: https://github.com/pierrepo/simulation-biologie
 - site: https://pierrepo.github.io/simulation-biologie/lab/index.html
