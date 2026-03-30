@@ -10,4 +10,5 @@ dependencies = [
     "jupyterlab-myst>=2.6.0",
     "jupyterquiz>=2.9.6.2",
     "matplotlib>=3.10.8",
+    "scipy>=1.17.1",
 ]
